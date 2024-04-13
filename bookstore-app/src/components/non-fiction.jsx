@@ -14,3 +14,5 @@ const NonFicBooks = () => {
         </>
     )
 }
+
+export default Non-Fiction;

@@ -12,3 +12,5 @@ const FicBooks = () => {
         </>
     )
 }
+
+export default Fiction;
